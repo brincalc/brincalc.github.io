@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>BRINCALC</title>	
+	</head>
+	
+	<body style="width:70%; margin:auto;">
+	
+	<div style="background:#FFFFFF" width="100px"; height="200px">
+		<center><h1>BRINCALC - APRENDER BRINCANDO </h1></center>
+		<h1>Informações:</h1>
+		<p  style="font-weight:bold; font-size:16px">Este projeto desenvolvido pelo Instituto Federal de Educação, Ciência e Tecnologia de Alagoas - Campus Arapiraca, 
+		visou a criação de um aplicativo matemático gratuito destinado a crianças que cursam o Ensino Fundamental 1 (2º a 5º anos).
+		O aplicativo disponibiliza atividades lúdicas que reforçarão os conceitos matemáticos que essas crianças 
+		aprendem em sala de aula servindo como auxílio tanto para pais quanto para professores.
+		Com isso, as crianças poderão, se divertindo, aprender e reforçar conceitos matemáticos importantes 
+		para sua trajetória escolar.</p>
+		
+		<p  style="font-weight:bold; font-size:16px">O aplicativo conta com atividades variadas, desde as mais simples envolvendo problemas de soma e subtração até
+		atividades mais complexas envolvendo divisão e comparação entre frações, sendo todas as atividades voltadas para
+		complementar o conteúdo visto nas aulas </p>
+		
+		
+	</div>
+		
+
+</body>
+</html>
